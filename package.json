@@ -1,6 +1,6 @@
 {
   "name": "heroku-cli-plugin",
-  "version": "0.0.0",
+  "version": "0.0.1-0",
   "author": "xiao",
   "bugs": "https://github.com/hongxiaops/heroku-cli-plugin/issues",
   "dependencies": {
